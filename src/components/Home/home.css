@@ -1,0 +1,27 @@
+.contact{
+    background-color: white;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    border: 1px solid;
+    margin: 5px; */
+    
+}
+.flase{
+    background-color: rgb(240, 123, 123);
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    border: 1px solid;
+    margin: 5px; */
+}
+
+.number{
+    margin-left: 200px;
+    display: flex;
+}
+.number h3{
+    margin: 10px;
+
+}
+.number span{
+    color: red;
+}
